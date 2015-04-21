@@ -1,0 +1,1 @@
+PODS_BUZZR_SSKEYCHAIN_OTHER_LDFLAGS = -framework "Foundation" -framework "Security"
