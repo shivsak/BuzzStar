@@ -5,7 +5,7 @@ A Project by: Shiv Sakhuja, Max Kaye, Shihan Shen
 <i>Note: This is a work in progress. All features may not be currently ready to use</i>
 
 <b>Demo Video</b><br />
-[![Demo Video](http://img.youtube.com/vi/Ek0S56PEulc/0.jpg)](http://www.youtube.com/watch?v=Ek0S56PEulc)
+[![Demo Video](http://img.youtube.com/vi/Sfev2l4IrDw/0.jpg)](http://www.youtube.com/watch?v=Sfev2l4IrDw)
 
 <h2><b>Features:</b></h2>
 
